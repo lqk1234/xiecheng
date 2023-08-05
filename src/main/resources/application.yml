@@ -16,4 +16,4 @@ mybatis:
 #showSql(??sql??)
 logging:
   level:
-    cn.edu.guet.insurance.mapper: DEBUG
+     com.example.weappdemo.mapper: DEBUG
